@@ -4,7 +4,7 @@ html{
 }
 
 h1 {
-    color: #cff5fc;
+    color: #dcfaff;
     text-align: center;
     text-shadow: 3px 3px 1px navy;
     font-weight: bold;
@@ -12,5 +12,5 @@ h1 {
 
 body {
     border: ghostwhite;
-    background-color: moccasin;
+    background-color: rgb(250, 226, 184);
 }
